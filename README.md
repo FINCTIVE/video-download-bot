@@ -12,4 +12,4 @@ The project is related with [this script](https://github.com/FINCTIVE/download-v
 
 ## screenshot
 
-![image](https://user-images.githubusercontent.com/31786061/120930450-dc5e1900-c71f-11eb-84f7-32d5c76531c8.png)
+<img src="https://user-images.githubusercontent.com/31786061/120930450-dc5e1900-c71f-11eb-84f7-32d5c76531c8.png" alt="screenshot" width="300">
